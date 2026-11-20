@@ -9,6 +9,7 @@
 | 家长端 | 家长付费与会员 | [打开](https://dimei147.github.io/lingbang-miniapp/parent-membership/) |
 | 家长端 | 家长助力免费发布 | [打开](https://dimei147.github.io/lingbang-miniapp/parent-help/) |
 | 管理后台 | 优惠券体系：原型与产品方案 | [打开](https://dimei147.github.io/lingbang-miniapp/coupon-demo/) |
+| 管理后台 | 企微应用管理 | [打开](https://dimei147.github.io/lingbang-miniapp/wecom-app-management/) |
 
 根目录 `index.html` 为目录页。原首页中的教师入驻与个人中心原型完整保存在 `teacher-onboarding.html`，其余原型保留各自目录与原访问地址。
 
